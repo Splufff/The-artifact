@@ -1,0 +1,16 @@
+Task,Dependencies,Duration,Workers
+A,,3,1
+B,A,11,2
+C,A,4,0
+D,C,7,4
+E,B,3,9
+F,C,10,5
+G,"D,E",3,3
+H,"F,G",6,6
+I,"D,E",4,8
+J,,9,3
+K,"H,I,J",5,3
+L,"F,G",9,2
+M,"K,L",4,1
+N,M,7,3
+O,"H,I,J",8,3
