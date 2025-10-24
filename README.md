@@ -9,7 +9,7 @@
 ```bash
 # Клонируйте репозиторий
 git clone <your-repo>
-cd The-artifact
+cd /Users/spluffy/Downloads/THE-ARTIFACT-MAIN
 
 # Установите зависимости
 pip install -r requirements.txt
